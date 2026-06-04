@@ -1,0 +1,88 @@
+# Validation Report - curtain-buying-guide
+
+Generated: 2026-06-04T11:35:38.603440
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Curtain Buying Guide
+- ✓ Article word count OK: Beginner Curtain Buying Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Curtain Buying Guide
+- ✓ Article word count OK: Beginner Curtain Buying Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Curtain Buying Guide
+- ✓ Article word count OK: Beginner Curtain Buying Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Curtain Buying Guide
+- ✓ Article word count OK: Common Mistakes in Beginner Curtain Buying Guide
+- ✓ Article word count OK: Beginner Curtain Buying Guide for Beginners
+- ✓ Article word count OK: Advanced Beginner Curtain Buying Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Curtain Buying Guide
+- ✓ Article word count OK: Advanced Curtain Buying Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Curtain Buying Guide
+- ✓ Article word count OK: Advanced Curtain Buying Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Curtain Buying Guide
+- ✓ Article word count OK: Advanced Curtain Buying Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Curtain Buying Guide
+- ✓ Article word count OK: Common Mistakes in Advanced Curtain Buying Guide
+- ✓ Article word count OK: Advanced Curtain Buying Guide for Beginners
+- ✓ Article word count OK: Advanced Advanced Curtain Buying Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Curtain Buying Guide Tips
+- ✓ Article word count OK: Curtain Buying Guide Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Curtain Buying Guide Tips
+- ✓ Article word count OK: Curtain Buying Guide Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Curtain Buying Guide Tips
+- ✓ Article word count OK: Curtain Buying Guide Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Curtain Buying Guide Tips
+- ✓ Article word count OK: Common Mistakes in Curtain Buying Guide Tips
+- ✓ Article word count OK: Curtain Buying Guide Tips for Beginners
+- ✓ Article word count OK: Advanced Curtain Buying Guide Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Curtain Buying Guide History
+- ✓ Article word count OK: Curtain Buying Guide History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Curtain Buying Guide History
+- ✓ Article word count OK: Curtain Buying Guide History Tips and Best Practices
+- ✓ Article word count OK: The History of Curtain Buying Guide History
+- ✓ Article word count OK: Curtain Buying Guide History in 2026: Current Trends
+- ✓ Article word count OK: Future of Curtain Buying Guide History
+- ✓ Article word count OK: Common Mistakes in Curtain Buying Guide History
+- ✓ Article word count OK: Curtain Buying Guide History for Beginners
+- ✓ Article word count OK: Advanced Curtain Buying Guide History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Curtain Buying Guide
+- ✓ Article word count OK: Trending Curtain Buying Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Curtain Buying Guide
+- ✓ Article word count OK: Trending Curtain Buying Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Curtain Buying Guide
+- ✓ Article word count OK: Trending Curtain Buying Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Curtain Buying Guide
+- ✓ Article word count OK: Common Mistakes in Trending Curtain Buying Guide
+- ✓ Article word count OK: Trending Curtain Buying Guide for Beginners
+- ✓ Article word count OK: Advanced Trending Curtain Buying Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Curtain Buying Guide Tutorials
+- ✓ Article word count OK: Curtain Buying Guide Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Curtain Buying Guide Tutorials
+- ✓ Article word count OK: Curtain Buying Guide Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Curtain Buying Guide Tutorials
+- ✓ Article word count OK: Curtain Buying Guide Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Curtain Buying Guide Tutorials
+- ✓ Article word count OK: Common Mistakes in Curtain Buying Guide Tutorials
+- ✓ Article word count OK: Curtain Buying Guide Tutorials for Beginners
+- ✓ Article word count OK: Advanced Curtain Buying Guide Tutorials Techniques
+- ✓ Ad configuration validated

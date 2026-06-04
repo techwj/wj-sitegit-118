@@ -1,0 +1,852 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "slug": "the-ultimate-guide-to-beginner-curtain-buying-guide",
+      "title": "The Ultimate Guide to Beginner Curtain Buying Guide",
+      "category": "beginner-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.543044",
+      "image": {
+        "id": "13be0bfa362094c5211a7b8b8122b39264c119d74e80441e68dcbba180762ad0",
+        "url": "https://picsum.photos/1156/440?random=193",
+        "alt": "Featured image for: The Ultimate Guide to Beginner Curtain Buying Guide",
+        "width": 1156,
+        "height": 440
+      }
+    },
+    {
+      "id": 2,
+      "slug": "beginner-curtain-buying-guide-everything-you-need-to-know",
+      "title": "Beginner Curtain Buying Guide: Everything You Need to Know",
+      "category": "beginner-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.543193",
+      "image": {
+        "id": "2e447794f3d261a5745ccd1d14a9065c9e069fa638413c5034bcb6d9c9ecb9dd",
+        "url": "https://picsum.photos/1145/582?random=470",
+        "alt": "Featured image for: Beginner Curtain Buying Guide: Everything You Need to Know",
+        "width": 1145,
+        "height": 582
+      }
+    },
+    {
+      "id": 3,
+      "slug": "understanding-beginner-curtain-buying-guide",
+      "title": "Understanding Beginner Curtain Buying Guide",
+      "category": "beginner-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.543280",
+      "image": {
+        "id": "c793c3d3b5f54793c39f5bd120e6722313c40413b8e102d7bb3895867928221b",
+        "url": "https://picsum.photos/1072/591?random=544",
+        "alt": "Featured image for: Understanding Beginner Curtain Buying Guide",
+        "width": 1072,
+        "height": 591
+      }
+    },
+    {
+      "id": 4,
+      "slug": "beginner-curtain-buying-guide-tips-and-best-practices",
+      "title": "Beginner Curtain Buying Guide Tips and Best Practices",
+      "category": "beginner-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.543362",
+      "image": {
+        "id": "1dc8c00ac336db46aba91a617c3ab7813a0aee71997f0b1008bd2c44fec1a454",
+        "url": "https://picsum.photos/1034/512?random=786",
+        "alt": "Featured image for: Beginner Curtain Buying Guide Tips and Best Practices",
+        "width": 1034,
+        "height": 512
+      }
+    },
+    {
+      "id": 5,
+      "slug": "the-history-of-beginner-curtain-buying-guide",
+      "title": "The History of Beginner Curtain Buying Guide",
+      "category": "beginner-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.543454",
+      "image": {
+        "id": "cd7ed422fe668bac294cf4aff66235747919d8f5e1aed73c652695c2be5b181f",
+        "url": "https://picsum.photos/944/471?random=336",
+        "alt": "Featured image for: The History of Beginner Curtain Buying Guide",
+        "width": 944,
+        "height": 471
+      }
+    },
+    {
+      "id": 6,
+      "slug": "beginner-curtain-buying-guide-in-2026-current-trends",
+      "title": "Beginner Curtain Buying Guide in 2026: Current Trends",
+      "category": "beginner-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.543538",
+      "image": {
+        "id": "1dc8c00ac336db46aba91a617c3ab7813a0aee71997f0b1008bd2c44fec1a454",
+        "url": "https://picsum.photos/1034/512?random=786",
+        "alt": "Featured image for: Beginner Curtain Buying Guide in 2026: Current Trends",
+        "width": 1034,
+        "height": 512
+      }
+    },
+    {
+      "id": 7,
+      "slug": "future-of-beginner-curtain-buying-guide",
+      "title": "Future of Beginner Curtain Buying Guide",
+      "category": "beginner-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.543622",
+      "image": {
+        "id": "1dc8c00ac336db46aba91a617c3ab7813a0aee71997f0b1008bd2c44fec1a454",
+        "url": "https://picsum.photos/1034/512?random=786",
+        "alt": "Featured image for: Future of Beginner Curtain Buying Guide",
+        "width": 1034,
+        "height": 512
+      }
+    },
+    {
+      "id": 8,
+      "slug": "common-mistakes-in-beginner-curtain-buying-guide",
+      "title": "Common Mistakes in Beginner Curtain Buying Guide",
+      "category": "beginner-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.543688",
+      "image": {
+        "id": "1dc8c00ac336db46aba91a617c3ab7813a0aee71997f0b1008bd2c44fec1a454",
+        "url": "https://picsum.photos/1034/512?random=786",
+        "alt": "Featured image for: Common Mistakes in Beginner Curtain Buying Guide",
+        "width": 1034,
+        "height": 512
+      }
+    },
+    {
+      "id": 9,
+      "slug": "beginner-curtain-buying-guide-for-beginners",
+      "title": "Beginner Curtain Buying Guide for Beginners",
+      "category": "beginner-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.543753",
+      "image": {
+        "id": "13be0bfa362094c5211a7b8b8122b39264c119d74e80441e68dcbba180762ad0",
+        "url": "https://picsum.photos/1156/440?random=193",
+        "alt": "Featured image for: Beginner Curtain Buying Guide for Beginners",
+        "width": 1156,
+        "height": 440
+      }
+    },
+    {
+      "id": 10,
+      "slug": "advanced-beginner-curtain-buying-guide-techniques",
+      "title": "Advanced Beginner Curtain Buying Guide Techniques",
+      "category": "beginner-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.543815",
+      "image": {
+        "id": "2e447794f3d261a5745ccd1d14a9065c9e069fa638413c5034bcb6d9c9ecb9dd",
+        "url": "https://picsum.photos/1145/582?random=470",
+        "alt": "Featured image for: Advanced Beginner Curtain Buying Guide Techniques",
+        "width": 1145,
+        "height": 582
+      }
+    },
+    {
+      "id": 19,
+      "slug": "the-ultimate-guide-to-advanced-curtain-buying-guide",
+      "title": "The Ultimate Guide to Advanced Curtain Buying Guide",
+      "category": "advanced-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.544372",
+      "image": {
+        "id": "2e447794f3d261a5745ccd1d14a9065c9e069fa638413c5034bcb6d9c9ecb9dd",
+        "url": "https://picsum.photos/1145/582?random=470",
+        "alt": "Featured image for: The Ultimate Guide to Advanced Curtain Buying Guide",
+        "width": 1145,
+        "height": 582
+      }
+    },
+    {
+      "id": 20,
+      "slug": "advanced-curtain-buying-guide-everything-you-need-to-know",
+      "title": "Advanced Curtain Buying Guide: Everything You Need to Know",
+      "category": "advanced-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.544435",
+      "image": {
+        "id": "2e447794f3d261a5745ccd1d14a9065c9e069fa638413c5034bcb6d9c9ecb9dd",
+        "url": "https://picsum.photos/1145/582?random=470",
+        "alt": "Featured image for: Advanced Curtain Buying Guide: Everything You Need to Know",
+        "width": 1145,
+        "height": 582
+      }
+    },
+    {
+      "id": 21,
+      "slug": "understanding-advanced-curtain-buying-guide",
+      "title": "Understanding Advanced Curtain Buying Guide",
+      "category": "advanced-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.544506",
+      "image": {
+        "id": "13be0bfa362094c5211a7b8b8122b39264c119d74e80441e68dcbba180762ad0",
+        "url": "https://picsum.photos/1156/440?random=193",
+        "alt": "Featured image for: Understanding Advanced Curtain Buying Guide",
+        "width": 1156,
+        "height": 440
+      }
+    },
+    {
+      "id": 22,
+      "slug": "advanced-curtain-buying-guide-tips-and-best-practices",
+      "title": "Advanced Curtain Buying Guide Tips and Best Practices",
+      "category": "advanced-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.544567",
+      "image": {
+        "id": "c793c3d3b5f54793c39f5bd120e6722313c40413b8e102d7bb3895867928221b",
+        "url": "https://picsum.photos/1072/591?random=544",
+        "alt": "Featured image for: Advanced Curtain Buying Guide Tips and Best Practices",
+        "width": 1072,
+        "height": 591
+      }
+    },
+    {
+      "id": 23,
+      "slug": "the-history-of-advanced-curtain-buying-guide",
+      "title": "The History of Advanced Curtain Buying Guide",
+      "category": "advanced-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.544628",
+      "image": {
+        "id": "c793c3d3b5f54793c39f5bd120e6722313c40413b8e102d7bb3895867928221b",
+        "url": "https://picsum.photos/1072/591?random=544",
+        "alt": "Featured image for: The History of Advanced Curtain Buying Guide",
+        "width": 1072,
+        "height": 591
+      }
+    },
+    {
+      "id": 24,
+      "slug": "advanced-curtain-buying-guide-in-2026-current-trends",
+      "title": "Advanced Curtain Buying Guide in 2026: Current Trends",
+      "category": "advanced-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.544688",
+      "image": {
+        "id": "cd7ed422fe668bac294cf4aff66235747919d8f5e1aed73c652695c2be5b181f",
+        "url": "https://picsum.photos/944/471?random=336",
+        "alt": "Featured image for: Advanced Curtain Buying Guide in 2026: Current Trends",
+        "width": 944,
+        "height": 471
+      }
+    },
+    {
+      "id": 25,
+      "slug": "future-of-advanced-curtain-buying-guide",
+      "title": "Future of Advanced Curtain Buying Guide",
+      "category": "advanced-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.544760",
+      "image": {
+        "id": "2e447794f3d261a5745ccd1d14a9065c9e069fa638413c5034bcb6d9c9ecb9dd",
+        "url": "https://picsum.photos/1145/582?random=470",
+        "alt": "Featured image for: Future of Advanced Curtain Buying Guide",
+        "width": 1145,
+        "height": 582
+      }
+    },
+    {
+      "id": 26,
+      "slug": "common-mistakes-in-advanced-curtain-buying-guide",
+      "title": "Common Mistakes in Advanced Curtain Buying Guide",
+      "category": "advanced-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.544823",
+      "image": {
+        "id": "2e447794f3d261a5745ccd1d14a9065c9e069fa638413c5034bcb6d9c9ecb9dd",
+        "url": "https://picsum.photos/1145/582?random=470",
+        "alt": "Featured image for: Common Mistakes in Advanced Curtain Buying Guide",
+        "width": 1145,
+        "height": 582
+      }
+    },
+    {
+      "id": 27,
+      "slug": "advanced-curtain-buying-guide-for-beginners",
+      "title": "Advanced Curtain Buying Guide for Beginners",
+      "category": "advanced-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.544890",
+      "image": {
+        "id": "2e447794f3d261a5745ccd1d14a9065c9e069fa638413c5034bcb6d9c9ecb9dd",
+        "url": "https://picsum.photos/1145/582?random=470",
+        "alt": "Featured image for: Advanced Curtain Buying Guide for Beginners",
+        "width": 1145,
+        "height": 582
+      }
+    },
+    {
+      "id": 28,
+      "slug": "advanced-advanced-curtain-buying-guide-techniques",
+      "title": "Advanced Advanced Curtain Buying Guide Techniques",
+      "category": "advanced-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.544951",
+      "image": {
+        "id": "c793c3d3b5f54793c39f5bd120e6722313c40413b8e102d7bb3895867928221b",
+        "url": "https://picsum.photos/1072/591?random=544",
+        "alt": "Featured image for: Advanced Advanced Curtain Buying Guide Techniques",
+        "width": 1072,
+        "height": 591
+      }
+    },
+    {
+      "id": 37,
+      "slug": "the-ultimate-guide-to-curtain-buying-guide-tips",
+      "title": "The Ultimate Guide to Curtain Buying Guide Tips",
+      "category": "tips-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.545496",
+      "image": {
+        "id": "2e447794f3d261a5745ccd1d14a9065c9e069fa638413c5034bcb6d9c9ecb9dd",
+        "url": "https://picsum.photos/1145/582?random=470",
+        "alt": "Featured image for: The Ultimate Guide to Curtain Buying Guide Tips",
+        "width": 1145,
+        "height": 582
+      }
+    },
+    {
+      "id": 38,
+      "slug": "curtain-buying-guide-tips-everything-you-need-to-know",
+      "title": "Curtain Buying Guide Tips: Everything You Need to Know",
+      "category": "tips-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.545557",
+      "image": {
+        "id": "2e447794f3d261a5745ccd1d14a9065c9e069fa638413c5034bcb6d9c9ecb9dd",
+        "url": "https://picsum.photos/1145/582?random=470",
+        "alt": "Featured image for: Curtain Buying Guide Tips: Everything You Need to Know",
+        "width": 1145,
+        "height": 582
+      }
+    },
+    {
+      "id": 39,
+      "slug": "understanding-curtain-buying-guide-tips",
+      "title": "Understanding Curtain Buying Guide Tips",
+      "category": "tips-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.545618",
+      "image": {
+        "id": "1dc8c00ac336db46aba91a617c3ab7813a0aee71997f0b1008bd2c44fec1a454",
+        "url": "https://picsum.photos/1034/512?random=786",
+        "alt": "Featured image for: Understanding Curtain Buying Guide Tips",
+        "width": 1034,
+        "height": 512
+      }
+    },
+    {
+      "id": 40,
+      "slug": "curtain-buying-guide-tips-tips-and-best-practices",
+      "title": "Curtain Buying Guide Tips Tips and Best Practices",
+      "category": "tips-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.545682",
+      "image": {
+        "id": "2e447794f3d261a5745ccd1d14a9065c9e069fa638413c5034bcb6d9c9ecb9dd",
+        "url": "https://picsum.photos/1145/582?random=470",
+        "alt": "Featured image for: Curtain Buying Guide Tips Tips and Best Practices",
+        "width": 1145,
+        "height": 582
+      }
+    },
+    {
+      "id": 41,
+      "slug": "the-history-of-curtain-buying-guide-tips",
+      "title": "The History of Curtain Buying Guide Tips",
+      "category": "tips-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.545747",
+      "image": {
+        "id": "13be0bfa362094c5211a7b8b8122b39264c119d74e80441e68dcbba180762ad0",
+        "url": "https://picsum.photos/1156/440?random=193",
+        "alt": "Featured image for: The History of Curtain Buying Guide Tips",
+        "width": 1156,
+        "height": 440
+      }
+    },
+    {
+      "id": 42,
+      "slug": "curtain-buying-guide-tips-in-2026-current-trends",
+      "title": "Curtain Buying Guide Tips in 2026: Current Trends",
+      "category": "tips-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.545809",
+      "image": {
+        "id": "2e447794f3d261a5745ccd1d14a9065c9e069fa638413c5034bcb6d9c9ecb9dd",
+        "url": "https://picsum.photos/1145/582?random=470",
+        "alt": "Featured image for: Curtain Buying Guide Tips in 2026: Current Trends",
+        "width": 1145,
+        "height": 582
+      }
+    },
+    {
+      "id": 43,
+      "slug": "future-of-curtain-buying-guide-tips",
+      "title": "Future of Curtain Buying Guide Tips",
+      "category": "tips-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.545870",
+      "image": {
+        "id": "cd7ed422fe668bac294cf4aff66235747919d8f5e1aed73c652695c2be5b181f",
+        "url": "https://picsum.photos/944/471?random=336",
+        "alt": "Featured image for: Future of Curtain Buying Guide Tips",
+        "width": 944,
+        "height": 471
+      }
+    },
+    {
+      "id": 44,
+      "slug": "common-mistakes-in-curtain-buying-guide-tips",
+      "title": "Common Mistakes in Curtain Buying Guide Tips",
+      "category": "tips-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.545930",
+      "image": {
+        "id": "13be0bfa362094c5211a7b8b8122b39264c119d74e80441e68dcbba180762ad0",
+        "url": "https://picsum.photos/1156/440?random=193",
+        "alt": "Featured image for: Common Mistakes in Curtain Buying Guide Tips",
+        "width": 1156,
+        "height": 440
+      }
+    },
+    {
+      "id": 45,
+      "slug": "curtain-buying-guide-tips-for-beginners",
+      "title": "Curtain Buying Guide Tips for Beginners",
+      "category": "tips-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.546014",
+      "image": {
+        "id": "13be0bfa362094c5211a7b8b8122b39264c119d74e80441e68dcbba180762ad0",
+        "url": "https://picsum.photos/1156/440?random=193",
+        "alt": "Featured image for: Curtain Buying Guide Tips for Beginners",
+        "width": 1156,
+        "height": 440
+      }
+    },
+    {
+      "id": 46,
+      "slug": "advanced-curtain-buying-guide-tips-techniques",
+      "title": "Advanced Curtain Buying Guide Tips Techniques",
+      "category": "tips-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.546076",
+      "image": {
+        "id": "c793c3d3b5f54793c39f5bd120e6722313c40413b8e102d7bb3895867928221b",
+        "url": "https://picsum.photos/1072/591?random=544",
+        "alt": "Featured image for: Advanced Curtain Buying Guide Tips Techniques",
+        "width": 1072,
+        "height": 591
+      }
+    },
+    {
+      "id": 55,
+      "slug": "the-ultimate-guide-to-curtain-buying-guide-history",
+      "title": "The Ultimate Guide to Curtain Buying Guide History",
+      "category": "history-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.546619",
+      "image": {
+        "id": "13be0bfa362094c5211a7b8b8122b39264c119d74e80441e68dcbba180762ad0",
+        "url": "https://picsum.photos/1156/440?random=193",
+        "alt": "Featured image for: The Ultimate Guide to Curtain Buying Guide History",
+        "width": 1156,
+        "height": 440
+      }
+    },
+    {
+      "id": 56,
+      "slug": "curtain-buying-guide-history-everything-you-need-to-know",
+      "title": "Curtain Buying Guide History: Everything You Need to Know",
+      "category": "history-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.546681",
+      "image": {
+        "id": "2e447794f3d261a5745ccd1d14a9065c9e069fa638413c5034bcb6d9c9ecb9dd",
+        "url": "https://picsum.photos/1145/582?random=470",
+        "alt": "Featured image for: Curtain Buying Guide History: Everything You Need to Know",
+        "width": 1145,
+        "height": 582
+      }
+    },
+    {
+      "id": 57,
+      "slug": "understanding-curtain-buying-guide-history",
+      "title": "Understanding Curtain Buying Guide History",
+      "category": "history-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.546747",
+      "image": {
+        "id": "1dc8c00ac336db46aba91a617c3ab7813a0aee71997f0b1008bd2c44fec1a454",
+        "url": "https://picsum.photos/1034/512?random=786",
+        "alt": "Featured image for: Understanding Curtain Buying Guide History",
+        "width": 1034,
+        "height": 512
+      }
+    },
+    {
+      "id": 58,
+      "slug": "curtain-buying-guide-history-tips-and-best-practices",
+      "title": "Curtain Buying Guide History Tips and Best Practices",
+      "category": "history-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.546997",
+      "image": {
+        "id": "cd7ed422fe668bac294cf4aff66235747919d8f5e1aed73c652695c2be5b181f",
+        "url": "https://picsum.photos/944/471?random=336",
+        "alt": "Featured image for: Curtain Buying Guide History Tips and Best Practices",
+        "width": 944,
+        "height": 471
+      }
+    },
+    {
+      "id": 59,
+      "slug": "the-history-of-curtain-buying-guide-history",
+      "title": "The History of Curtain Buying Guide History",
+      "category": "history-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.547135",
+      "image": {
+        "id": "c793c3d3b5f54793c39f5bd120e6722313c40413b8e102d7bb3895867928221b",
+        "url": "https://picsum.photos/1072/591?random=544",
+        "alt": "Featured image for: The History of Curtain Buying Guide History",
+        "width": 1072,
+        "height": 591
+      }
+    },
+    {
+      "id": 60,
+      "slug": "curtain-buying-guide-history-in-2026-current-trends",
+      "title": "Curtain Buying Guide History in 2026: Current Trends",
+      "category": "history-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.547291",
+      "image": {
+        "id": "c793c3d3b5f54793c39f5bd120e6722313c40413b8e102d7bb3895867928221b",
+        "url": "https://picsum.photos/1072/591?random=544",
+        "alt": "Featured image for: Curtain Buying Guide History in 2026: Current Trends",
+        "width": 1072,
+        "height": 591
+      }
+    },
+    {
+      "id": 61,
+      "slug": "future-of-curtain-buying-guide-history",
+      "title": "Future of Curtain Buying Guide History",
+      "category": "history-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.547374",
+      "image": {
+        "id": "c793c3d3b5f54793c39f5bd120e6722313c40413b8e102d7bb3895867928221b",
+        "url": "https://picsum.photos/1072/591?random=544",
+        "alt": "Featured image for: Future of Curtain Buying Guide History",
+        "width": 1072,
+        "height": 591
+      }
+    },
+    {
+      "id": 62,
+      "slug": "common-mistakes-in-curtain-buying-guide-history",
+      "title": "Common Mistakes in Curtain Buying Guide History",
+      "category": "history-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.547460",
+      "image": {
+        "id": "13be0bfa362094c5211a7b8b8122b39264c119d74e80441e68dcbba180762ad0",
+        "url": "https://picsum.photos/1156/440?random=193",
+        "alt": "Featured image for: Common Mistakes in Curtain Buying Guide History",
+        "width": 1156,
+        "height": 440
+      }
+    },
+    {
+      "id": 63,
+      "slug": "curtain-buying-guide-history-for-beginners",
+      "title": "Curtain Buying Guide History for Beginners",
+      "category": "history-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.547591",
+      "image": {
+        "id": "13be0bfa362094c5211a7b8b8122b39264c119d74e80441e68dcbba180762ad0",
+        "url": "https://picsum.photos/1156/440?random=193",
+        "alt": "Featured image for: Curtain Buying Guide History for Beginners",
+        "width": 1156,
+        "height": 440
+      }
+    },
+    {
+      "id": 64,
+      "slug": "advanced-curtain-buying-guide-history-techniques",
+      "title": "Advanced Curtain Buying Guide History Techniques",
+      "category": "history-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.547727",
+      "image": {
+        "id": "1dc8c00ac336db46aba91a617c3ab7813a0aee71997f0b1008bd2c44fec1a454",
+        "url": "https://picsum.photos/1034/512?random=786",
+        "alt": "Featured image for: Advanced Curtain Buying Guide History Techniques",
+        "width": 1034,
+        "height": 512
+      }
+    },
+    {
+      "id": 73,
+      "slug": "the-ultimate-guide-to-trending-curtain-buying-guide",
+      "title": "The Ultimate Guide to Trending Curtain Buying Guide",
+      "category": "trending-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.548293",
+      "image": {
+        "id": "2e447794f3d261a5745ccd1d14a9065c9e069fa638413c5034bcb6d9c9ecb9dd",
+        "url": "https://picsum.photos/1145/582?random=470",
+        "alt": "Featured image for: The Ultimate Guide to Trending Curtain Buying Guide",
+        "width": 1145,
+        "height": 582
+      }
+    },
+    {
+      "id": 74,
+      "slug": "trending-curtain-buying-guide-everything-you-need-to-know",
+      "title": "Trending Curtain Buying Guide: Everything You Need to Know",
+      "category": "trending-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.548354",
+      "image": {
+        "id": "13be0bfa362094c5211a7b8b8122b39264c119d74e80441e68dcbba180762ad0",
+        "url": "https://picsum.photos/1156/440?random=193",
+        "alt": "Featured image for: Trending Curtain Buying Guide: Everything You Need to Know",
+        "width": 1156,
+        "height": 440
+      }
+    },
+    {
+      "id": 75,
+      "slug": "understanding-trending-curtain-buying-guide",
+      "title": "Understanding Trending Curtain Buying Guide",
+      "category": "trending-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.548423",
+      "image": {
+        "id": "2e447794f3d261a5745ccd1d14a9065c9e069fa638413c5034bcb6d9c9ecb9dd",
+        "url": "https://picsum.photos/1145/582?random=470",
+        "alt": "Featured image for: Understanding Trending Curtain Buying Guide",
+        "width": 1145,
+        "height": 582
+      }
+    },
+    {
+      "id": 76,
+      "slug": "trending-curtain-buying-guide-tips-and-best-practices",
+      "title": "Trending Curtain Buying Guide Tips and Best Practices",
+      "category": "trending-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.548484",
+      "image": {
+        "id": "2e447794f3d261a5745ccd1d14a9065c9e069fa638413c5034bcb6d9c9ecb9dd",
+        "url": "https://picsum.photos/1145/582?random=470",
+        "alt": "Featured image for: Trending Curtain Buying Guide Tips and Best Practices",
+        "width": 1145,
+        "height": 582
+      }
+    },
+    {
+      "id": 77,
+      "slug": "the-history-of-trending-curtain-buying-guide",
+      "title": "The History of Trending Curtain Buying Guide",
+      "category": "trending-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.548547",
+      "image": {
+        "id": "2e447794f3d261a5745ccd1d14a9065c9e069fa638413c5034bcb6d9c9ecb9dd",
+        "url": "https://picsum.photos/1145/582?random=470",
+        "alt": "Featured image for: The History of Trending Curtain Buying Guide",
+        "width": 1145,
+        "height": 582
+      }
+    },
+    {
+      "id": 78,
+      "slug": "trending-curtain-buying-guide-in-2026-current-trends",
+      "title": "Trending Curtain Buying Guide in 2026: Current Trends",
+      "category": "trending-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.548608",
+      "image": {
+        "id": "13be0bfa362094c5211a7b8b8122b39264c119d74e80441e68dcbba180762ad0",
+        "url": "https://picsum.photos/1156/440?random=193",
+        "alt": "Featured image for: Trending Curtain Buying Guide in 2026: Current Trends",
+        "width": 1156,
+        "height": 440
+      }
+    },
+    {
+      "id": 79,
+      "slug": "future-of-trending-curtain-buying-guide",
+      "title": "Future of Trending Curtain Buying Guide",
+      "category": "trending-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.548668",
+      "image": {
+        "id": "cd7ed422fe668bac294cf4aff66235747919d8f5e1aed73c652695c2be5b181f",
+        "url": "https://picsum.photos/944/471?random=336",
+        "alt": "Featured image for: Future of Trending Curtain Buying Guide",
+        "width": 944,
+        "height": 471
+      }
+    },
+    {
+      "id": 80,
+      "slug": "common-mistakes-in-trending-curtain-buying-guide",
+      "title": "Common Mistakes in Trending Curtain Buying Guide",
+      "category": "trending-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.548728",
+      "image": {
+        "id": "cd7ed422fe668bac294cf4aff66235747919d8f5e1aed73c652695c2be5b181f",
+        "url": "https://picsum.photos/944/471?random=336",
+        "alt": "Featured image for: Common Mistakes in Trending Curtain Buying Guide",
+        "width": 944,
+        "height": 471
+      }
+    },
+    {
+      "id": 81,
+      "slug": "trending-curtain-buying-guide-for-beginners",
+      "title": "Trending Curtain Buying Guide for Beginners",
+      "category": "trending-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.548792",
+      "image": {
+        "id": "1dc8c00ac336db46aba91a617c3ab7813a0aee71997f0b1008bd2c44fec1a454",
+        "url": "https://picsum.photos/1034/512?random=786",
+        "alt": "Featured image for: Trending Curtain Buying Guide for Beginners",
+        "width": 1034,
+        "height": 512
+      }
+    },
+    {
+      "id": 82,
+      "slug": "advanced-trending-curtain-buying-guide-techniques",
+      "title": "Advanced Trending Curtain Buying Guide Techniques",
+      "category": "trending-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.548853",
+      "image": {
+        "id": "2e447794f3d261a5745ccd1d14a9065c9e069fa638413c5034bcb6d9c9ecb9dd",
+        "url": "https://picsum.photos/1145/582?random=470",
+        "alt": "Featured image for: Advanced Trending Curtain Buying Guide Techniques",
+        "width": 1145,
+        "height": 582
+      }
+    },
+    {
+      "id": 91,
+      "slug": "the-ultimate-guide-to-curtain-buying-guide-tutorials",
+      "title": "The Ultimate Guide to Curtain Buying Guide Tutorials",
+      "category": "tutorials-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.549402",
+      "image": {
+        "id": "c793c3d3b5f54793c39f5bd120e6722313c40413b8e102d7bb3895867928221b",
+        "url": "https://picsum.photos/1072/591?random=544",
+        "alt": "Featured image for: The Ultimate Guide to Curtain Buying Guide Tutorials",
+        "width": 1072,
+        "height": 591
+      }
+    },
+    {
+      "id": 92,
+      "slug": "curtain-buying-guide-tutorials-everything-you-need-to-know",
+      "title": "Curtain Buying Guide Tutorials: Everything You Need to Know",
+      "category": "tutorials-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.549463",
+      "image": {
+        "id": "2e447794f3d261a5745ccd1d14a9065c9e069fa638413c5034bcb6d9c9ecb9dd",
+        "url": "https://picsum.photos/1145/582?random=470",
+        "alt": "Featured image for: Curtain Buying Guide Tutorials: Everything You Need to Know",
+        "width": 1145,
+        "height": 582
+      }
+    },
+    {
+      "id": 93,
+      "slug": "understanding-curtain-buying-guide-tutorials",
+      "title": "Understanding Curtain Buying Guide Tutorials",
+      "category": "tutorials-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.549523",
+      "image": {
+        "id": "c793c3d3b5f54793c39f5bd120e6722313c40413b8e102d7bb3895867928221b",
+        "url": "https://picsum.photos/1072/591?random=544",
+        "alt": "Featured image for: Understanding Curtain Buying Guide Tutorials",
+        "width": 1072,
+        "height": 591
+      }
+    },
+    {
+      "id": 94,
+      "slug": "curtain-buying-guide-tutorials-tips-and-best-practices",
+      "title": "Curtain Buying Guide Tutorials Tips and Best Practices",
+      "category": "tutorials-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.549576",
+      "image": {
+        "id": "13be0bfa362094c5211a7b8b8122b39264c119d74e80441e68dcbba180762ad0",
+        "url": "https://picsum.photos/1156/440?random=193",
+        "alt": "Featured image for: Curtain Buying Guide Tutorials Tips and Best Practices",
+        "width": 1156,
+        "height": 440
+      }
+    },
+    {
+      "id": 95,
+      "slug": "the-history-of-curtain-buying-guide-tutorials",
+      "title": "The History of Curtain Buying Guide Tutorials",
+      "category": "tutorials-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.549634",
+      "image": {
+        "id": "2e447794f3d261a5745ccd1d14a9065c9e069fa638413c5034bcb6d9c9ecb9dd",
+        "url": "https://picsum.photos/1145/582?random=470",
+        "alt": "Featured image for: The History of Curtain Buying Guide Tutorials",
+        "width": 1145,
+        "height": 582
+      }
+    },
+    {
+      "id": 96,
+      "slug": "curtain-buying-guide-tutorials-in-2026-current-trends",
+      "title": "Curtain Buying Guide Tutorials in 2026: Current Trends",
+      "category": "tutorials-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.549688",
+      "image": {
+        "id": "2e447794f3d261a5745ccd1d14a9065c9e069fa638413c5034bcb6d9c9ecb9dd",
+        "url": "https://picsum.photos/1145/582?random=470",
+        "alt": "Featured image for: Curtain Buying Guide Tutorials in 2026: Current Trends",
+        "width": 1145,
+        "height": 582
+      }
+    },
+    {
+      "id": 97,
+      "slug": "future-of-curtain-buying-guide-tutorials",
+      "title": "Future of Curtain Buying Guide Tutorials",
+      "category": "tutorials-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.549742",
+      "image": {
+        "id": "cd7ed422fe668bac294cf4aff66235747919d8f5e1aed73c652695c2be5b181f",
+        "url": "https://picsum.photos/944/471?random=336",
+        "alt": "Featured image for: Future of Curtain Buying Guide Tutorials",
+        "width": 944,
+        "height": 471
+      }
+    },
+    {
+      "id": 98,
+      "slug": "common-mistakes-in-curtain-buying-guide-tutorials",
+      "title": "Common Mistakes in Curtain Buying Guide Tutorials",
+      "category": "tutorials-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.549794",
+      "image": {
+        "id": "2e447794f3d261a5745ccd1d14a9065c9e069fa638413c5034bcb6d9c9ecb9dd",
+        "url": "https://picsum.photos/1145/582?random=470",
+        "alt": "Featured image for: Common Mistakes in Curtain Buying Guide Tutorials",
+        "width": 1145,
+        "height": 582
+      }
+    },
+    {
+      "id": 99,
+      "slug": "curtain-buying-guide-tutorials-for-beginners",
+      "title": "Curtain Buying Guide Tutorials for Beginners",
+      "category": "tutorials-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.549846",
+      "image": {
+        "id": "1dc8c00ac336db46aba91a617c3ab7813a0aee71997f0b1008bd2c44fec1a454",
+        "url": "https://picsum.photos/1034/512?random=786",
+        "alt": "Featured image for: Curtain Buying Guide Tutorials for Beginners",
+        "width": 1034,
+        "height": 512
+      }
+    },
+    {
+      "id": 100,
+      "slug": "advanced-curtain-buying-guide-tutorials-techniques",
+      "title": "Advanced Curtain Buying Guide Tutorials Techniques",
+      "category": "tutorials-curtain-buying-guide",
+      "created_at": "2026-06-04T11:35:38.549897",
+      "image": {
+        "id": "cd7ed422fe668bac294cf4aff66235747919d8f5e1aed73c652695c2be5b181f",
+        "url": "https://picsum.photos/944/471?random=336",
+        "alt": "Featured image for: Advanced Curtain Buying Guide Tutorials Techniques",
+        "width": 944,
+        "height": 471
+      }
+    }
+  ],
+  "categories": [
+    "beginner-curtain-buying-guide",
+    "advanced-curtain-buying-guide",
+    "tips-curtain-buying-guide",
+    "history-curtain-buying-guide",
+    "trending-curtain-buying-guide",
+    "tutorials-curtain-buying-guide"
+  ]
+}
